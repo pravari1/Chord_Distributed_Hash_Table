@@ -1,0 +1,7 @@
+Implemented Distributed hash table chord, This project has two important files.
+1. ServerHandler.java 
+	this file has implementation of all six function which is given in project_description file.
+	The implementation of function findSucc(), findPred() and closet_preceding_finger is same as it's given in Chord paper Algorithm
+
+2. JavaServer.java 
+	This file has is same as the file in Calculator thrift example for creating server.
